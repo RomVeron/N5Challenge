@@ -1,0 +1,15 @@
+E:\ROM Desktop\N5\WebApi\Infraestructure\bin\Debug\net8.0\Infraestructure.deps.json
+E:\ROM Desktop\N5\WebApi\Infraestructure\bin\Debug\net8.0\Infraestructure.dll
+E:\ROM Desktop\N5\WebApi\Infraestructure\bin\Debug\net8.0\Infraestructure.pdb
+E:\ROM Desktop\N5\WebApi\Infraestructure\bin\Debug\net8.0\Core.dll
+E:\ROM Desktop\N5\WebApi\Infraestructure\bin\Debug\net8.0\Core.pdb
+E:\ROM Desktop\N5\WebApi\Infraestructure\obj\Debug\net8.0\Infraestructure.csproj.AssemblyReference.cache
+E:\ROM Desktop\N5\WebApi\Infraestructure\obj\Debug\net8.0\Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\ROM Desktop\N5\WebApi\Infraestructure\obj\Debug\net8.0\Infraestructure.AssemblyInfoInputs.cache
+E:\ROM Desktop\N5\WebApi\Infraestructure\obj\Debug\net8.0\Infraestructure.AssemblyInfo.cs
+E:\ROM Desktop\N5\WebApi\Infraestructure\obj\Debug\net8.0\Infraestructure.csproj.CoreCompileInputs.cache
+E:\ROM Desktop\N5\WebApi\Infraestructure\obj\Debug\net8.0\Infraest.B0D41582.Up2Date
+E:\ROM Desktop\N5\WebApi\Infraestructure\obj\Debug\net8.0\Infraestructure.dll
+E:\ROM Desktop\N5\WebApi\Infraestructure\obj\Debug\net8.0\refint\Infraestructure.dll
+E:\ROM Desktop\N5\WebApi\Infraestructure\obj\Debug\net8.0\Infraestructure.pdb
+E:\ROM Desktop\N5\WebApi\Infraestructure\obj\Debug\net8.0\ref\Infraestructure.dll
